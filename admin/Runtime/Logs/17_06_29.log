@@ -1,0 +1,2144 @@
+[ 2017-06-29T00:19:44+08:00 ] 101.226.68.215 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T01:23:22+08:00 ] 183.57.53.177 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-06-29T06:00:32+08:00 ] 14.17.21.58 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-06-29T07:00:54+08:00 ] 223.104.27.57 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-06-29T13:39:01+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-06-29T13:39:26+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-06-29T13:40:18+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-06-29T13:44:25+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-06-29T13:46:00+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-06-29T13:48:18+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-29T13:52:40+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-06-29T13:58:28+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-06-29T14:04:48+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-06-29T14:05:17+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-06-29T14:05:43+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-06-29T14:09:32+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-06-29T14:09:54+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-06-29T14:10:05+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-06-29T14:26:09+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-06-29T14:26:12+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-06-29T14:26:21+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-06-29T14:33:21+08:00 ] 125.76.53.120 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-06-29T14:33:23+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-06-29T14:33:28+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/elements.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-06-29T14:33:31+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/buttons.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-06-29T14:33:35+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/jquery-ui
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-06-29T14:35:16+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/jquery-ui
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-06-29T14:35:25+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-06-29T14:35:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-06-29T14:40:26+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-06-29T14:40:29+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/image-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-06-29T14:40:29+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/image-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-06-29T14:40:32+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/image-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-06-29T14:40:33+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/image-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-06-29T14:40:33+08:00 ] 125.76.53.120 /admin/index.php/Home/Index/assets/images/gallery/image-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-06-29T15:32:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/tables
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-06-29T15:33:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/profile.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-06-29T15:33:34+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-06-29T15:33:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/widgets.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-06-29T15:33:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-06-29T15:33:45+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/elements.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-06-29T15:34:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/widgets.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-29T15:34:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-06-29T15:34:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-29T15:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-06-29T15:34:53+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-06-29T15:39:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-06-29T15:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-06-29T15:40:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-06-29T15:40:21+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-06-29T15:40:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-06-29T15:40:33+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-06-29T15:40:35+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-06-29T15:40:47+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-06-29T15:41:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-06-29T15:41:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-06-29T15:41:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-06-29T15:41:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-06-29T15:41:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-06-29T15:41:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/jqgrid
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-06-29T15:41:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-06-29T15:41:53+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-06-29T15:41:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-06-29T15:42:01+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-06-29T15:45:09+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-06-29T15:48:40+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-06-29T15:48:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/form_elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-06-29T15:51:34+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-06-29T15:51:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-06-29T15:51:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-29T15:51:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-29T15:51:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/tables.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-06-29T15:51:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/tables.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-06-29T15:51:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-06-29T16:19:42+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-06-29T16:19:52+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/buttons
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-06-29T16:19:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-06-29T16:20:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-06-29T16:20:31+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-06-29T16:20:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/buttons
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-06-29T16:20:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-29T16:20:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-06-29T16:21:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-06-29T16:21:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-06-29T16:21:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-06-29T16:21:14+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/tables
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-06-29T16:21:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-29T17:02:03+08:00 ] 113.108.21.80 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-29T17:11:39+08:00 ] 101.226.68.215 /admin/index.php/Home/Index/jquery-ui
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-06-29T17:32:26+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-06-29T17:32:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-06-29T17:32:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-06-29T17:33:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/jqgrid
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-06-29T17:33:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-06-29T17:34:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-06-29T17:34:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-06-29T17:34:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-06-29T17:34:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-06-29T17:34:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-06-29T17:34:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-06-29T17:34:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-06-29T17:35:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-06-29T17:35:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-06-29T17:35:18+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-06-29T17:35:18+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-06-29T17:35:28+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-06-29T17:35:32+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-06-29T17:35:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-06-29T17:35:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-06-29T17:35:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-06-29T17:35:52+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-06-29T17:35:55+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-06-29T17:35:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-06-29T17:36:03+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-06-29T17:37:09+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-06-29T17:37:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-06-29T17:46:48+08:00 ] 101.226.64.174 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-06-29T17:52:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-06-29T17:52:51+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-29T18:08:51+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-06-29T18:09:11+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-06-29T18:09:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/form_elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-06-29T18:09:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-06-29T18:09:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-06-29T18:09:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-06-29T18:09:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-06-29T18:09:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-06-29T18:09:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-06-29T18:09:46+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-06-29T18:10:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-06-29T18:10:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-06-29T18:10:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-06-29T18:11:32+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-06-29T18:11:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/buttons
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-06-29T18:11:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/tables
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-06-29T18:11:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/form_wizard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-06-29T18:11:57+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-06-29T18:12:01+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T18:12:11+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-06-29T18:13:08+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-06-29T18:13:14+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-06-29T18:15:04+08:00 ] 14.17.3.64 /admin/index.php/Home/Index/typography.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-06-29T18:15:04+08:00 ] 183.57.53.197 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-06-29T18:15:09+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-06-29T18:17:19+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T18:17:23+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-06-29T18:17:28+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-06-29T18:17:33+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-29T18:17:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-06-29T18:17:50+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-06-29T18:17:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-29T18:18:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/form_wizard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-06-29T18:18:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-06-29T18:18:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-06-29T18:18:14+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-06-29T18:18:29+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-06-29T18:18:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-06-29T18:18:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-06-29T18:18:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-06-29T18:18:53+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-06-29T18:19:31+08:00 ] 14.17.3.64 /admin/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-06-29T18:19:34+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-06-29T18:19:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-06-29T18:19:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-06-29T18:19:44+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-06-29T18:19:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/jqgrid
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-06-29T18:19:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/form_elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-29T18:19:57+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/form_wizard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-06-29T18:19:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-06-29T18:20:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-06-29T18:20:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-06-29T18:20:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-06-29T18:20:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-06-29T18:20:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-06-29T18:20:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-06-29T18:20:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-06-29T18:20:12+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/profile
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-06-29T18:20:13+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-06-29T18:20:23+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/pricing
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T18:20:30+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/timeline
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-06-29T18:20:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-06-29T18:20:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-06-29T18:20:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-06-29T18:20:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-06-29T18:20:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/buttons
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-06-29T18:22:10+08:00 ] 14.17.21.58 /admin/index.php/Home/Index/index.php/Home/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-06-29T18:24:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/profile
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-06-29T18:25:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-06-29T18:28:33+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/500
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T18:28:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/500
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-06-29T18:28:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/404
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-06-29T18:29:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/500
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-06-29T18:31:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/500
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-06-29T18:31:06+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T18:34:11+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-06-29T18:34:13+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-06-29T18:34:18+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-06-29T18:34:49+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-06-29T18:37:38+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-06-29T18:37:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-06-29T18:38:00+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T18:39:32+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-06-29T18:39:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-06-29T18:39:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-06-29T18:39:37+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-06-29T18:39:37+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-06-29T18:39:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-06-29T18:39:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-06-29T18:39:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-06-29T18:39:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-06-29T18:39:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-06-29T18:39:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-29T18:39:54+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+
+[ 2017-06-29T18:39:55+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-06-29T18:39:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-06-29T18:39:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-29T18:39:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-06-29T18:40:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-06-29T18:39:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-06-29T18:40:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-06-29T18:40:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-06-29T18:40:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T18:40:22+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-06-29T18:40:33+08:00 ] 183.57.53.177 /admin/index.php/Home/Index/jqgrid
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-06-29T18:41:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-06-29T18:41:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-06-29T18:41:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-06-29T18:41:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-06-29T18:41:15+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-06-29T18:41:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-06-29T18:41:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/gallery
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-5.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-06-29T18:41:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/images/gallery/thumb-6.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-06-29T18:42:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-06-29T18:42:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-06-29T18:42:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-06-29T18:42:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-06-29T18:42:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-06-29T18:42:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-06-29T18:42:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-06-29T18:42:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-06-29T18:42:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-06-29T18:42:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-06-29T18:42:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-06-29T18:42:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-06-29T18:42:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-06-29T18:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-06-29T18:42:11+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-06-29T18:42:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-06-29T19:04:02+08:00 ] 101.226.68.215 /admin/index.php/Home/Index/tables.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-06-29T19:09:07+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-06-29T19:12:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-06-29T19:12:06+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-06-29T19:12:12+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-06-29T19:12:26+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-06-29T19:12:57+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-06-29T19:12:58+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-06-29T19:13:07+08:00 ] 112.90.82.196 /admin/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-06-29T19:13:55+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-06-29T19:13:56+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-06-29T19:15:21+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-29T19:28:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-29T19:28:35+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-06-29T19:32:59+08:00 ] 112.90.82.218 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-29T19:37:13+08:00 ] 183.57.53.197 /admin/index.php/Home/Index/widgets.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-06-29T19:37:14+08:00 ] 113.108.10.5 /admin/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/index.php/Home/Index/elements
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-06-29T19:39:44+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-06-29T19:40:04+08:00 ] 42.91.125.44 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-06-29T19:40:37+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/calendar
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-06-29T19:40:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-06-29T19:42:02+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-06-29T19:42:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-06-29T19:43:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-06-29T19:43:37+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-06-29T19:43:52+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-06-29T19:43:56+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-06-29T19:44:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T19:45:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-06-29T19:45:22+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-06-29T19:47:15+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-06-29T19:47:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-06-29T19:53:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-06-29T19:54:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-06-29T19:56:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-06-29T19:57:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-06-29T19:57:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-06-29T19:58:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-06-29T19:58:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-06-29T19:58:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-06-29T19:58:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-06-29T19:58:57+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-06-29T20:01:53+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-06-29T20:02:11+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-06-29T20:02:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T20:02:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-06-29T20:02:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-29T20:02:56+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-06-29T20:03:08+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-06-29T20:03:20+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-06-29T20:03:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-06-29T20:03:33+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-06-29T20:03:46+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-06-29T20:04:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-29T20:04:16+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-06-29T20:04:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-06-29T20:04:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-06-29T20:04:57+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-06-29T20:06:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-06-29T20:06:16+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-06-29T20:06:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-06-29T20:07:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-06-29T20:09:34+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-06-29T20:09:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-06-29T20:09:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-06-29T20:10:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-06-29T20:11:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-06-29T20:11:34+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-06-29T20:11:56+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-06-29T20:12:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-06-29T20:12:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-06-29T20:16:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-06-29T20:17:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-06-29T20:17:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-06-29T20:18:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-29T20:18:17+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-06-29T20:18:29+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-06-29T20:19:16+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-06-29T20:19:32+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-06-29T20:41:53+08:00 ] 117.136.27.189 /admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-06-29T20:42:09+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-06-29T20:42:45+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-06-29T20:42:50+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-06-29T20:43:06+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/inbox.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-06-29T20:43:07+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/assets/images/gallery/thumb-4.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-06-29T20:43:07+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/assets/images/gallery/thumb-1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-06-29T20:43:07+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/assets/images/gallery/thumb-3.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-06-29T20:43:07+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/assets/images/gallery/thumb-2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T20:43:25+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-06-29T20:43:43+08:00 ] 117.136.27.189 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-06-29T21:38:35+08:00 ] 14.17.3.64 /admin/index.php/Home/Index/widgets
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-06-29T21:52:25+08:00 ] 183.57.53.222 /admin/index.php/Home/Index/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-06-29T21:58:25+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-06-29T22:03:34+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-06-29T22:10:04+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-06-29T22:10:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-06-29T22:11:52+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-06-29T22:12:14+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-29T22:12:32+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-06-29T22:12:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-29T22:13:12+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-06-29T22:13:43+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-06-29T22:13:49+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-06-29T22:15:37+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-06-29T22:15:59+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-06-29T22:16:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-06-29T22:16:21+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-06-29T22:16:23+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-06-29T22:16:26+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-06-29T22:16:57+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-06-29T22:17:28+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-06-29T22:17:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-06-29T22:18:01+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-06-29T22:18:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-06-29T22:19:12+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-06-29T22:19:46+08:00 ] 14.17.21.58 /admin/index.php/Home/Index/jquery-ui
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2017-06-29T22:20:47+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-06-29T22:21:30+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-06-29T22:22:24+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-29T22:22:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-06-29T22:22:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-06-29T22:23:27+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-06-29T22:23:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-06-29T22:26:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-06-29T22:27:18+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-06-29T22:27:41+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-06-29T22:28:01+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-06-29T22:28:26+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-06-29T22:30:05+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-06-29T22:30:14+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-06-29T22:30:58+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-06-29T22:32:01+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-06-29T22:32:36+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-06-29T22:35:08+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-06-29T22:37:21+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-06-29T22:37:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-06-29T22:38:33+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-06-29T22:38:48+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-06-29T22:38:51+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-06-29T22:39:16+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-06-29T22:42:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-06-29T22:43:40+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-06-29T22:44:09+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-06-29T22:45:03+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-06-29T22:46:30+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-06-29T22:46:52+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-06-29T22:47:08+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-06-29T22:47:42+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-06-29T22:51:31+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-06-29T22:51:38+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-06-29T22:53:01+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-06-29T22:53:39+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-06-29T22:53:57+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-06-29T22:55:00+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-06-29T22:55:10+08:00 ] 42.91.125.44 /admin/index.php/Home/Index/typography
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-06-29T23:03:50+08:00 ] 183.57.53.222 /admin/index.php/Home/Index/form_wizard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-06-29T23:10:11+08:00 ] 14.17.3.64 /admin/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-06-29T23:33:43+08:00 ] 14.17.3.64 /admin/index.php/Home/Index/index.php/Home/Index/buttons
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-06-29T23:33:43+08:00 ] 14.17.21.58 /admin/index.php/Home/Index/index.php/Home/Index/form_wizard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-06-29T23:33:43+08:00 ] 101.226.64.174 /admin/index.php/Home/Index/index.php/Home/Index/grid.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+

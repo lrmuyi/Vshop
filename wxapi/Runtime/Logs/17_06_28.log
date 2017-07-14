@@ -1,0 +1,40 @@
+[ 2017-06-28T21:38:54+08:00 ] 42.91.122.73 /wxapi/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-06-28T22:28:39+08:00 ] 101.226.233.146 /wxapi/index.php/Home/Index/checkSignature?signature=e75aaba92c94d70b249f78e0e96c33ce13903ad7&echostr=8511957332548631839&timestamp=1498660117&nonce=514344552
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-06-28T22:28:49+08:00 ] 101.226.66.187 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-06-28T22:29:09+08:00 ] 101.226.233.151 /wxapi/index.php/Home/Index/checkSignature?signature=4e0ec6413783586c2fec6b817e1dde67b7c2ee62&echostr=6057216611790356471&timestamp=1498660147&nonce=771335072
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-06-28T22:29:12+08:00 ] 101.226.233.146 /wxapi/index.php/Home/Index/checkSignature?signature=b629135722e1eec71ae340472a43eb07b87c180d&echostr=6559995133758521343&timestamp=1498660150&nonce=581552472
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-06-28T22:29:22+08:00 ] 101.226.33.208 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-06-28T22:30:12+08:00 ] 101.226.233.141 /wxapi/index.php/Home/Index/checkSignature?signature=0bcb168ce000bb38e55c4b764354d7d1b815e0a4&echostr=9009169100109512190&timestamp=1498660212&nonce=348390592
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-06-28T22:30:28+08:00 ] 42.91.122.73 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-06-28T22:31:05+08:00 ] 101.226.233.141 /wxapi/index.php/Home/Index/checkSignature?signature=ccfe752af9202b3fcc1bf8c182371e38859fcfef&echostr=348964608341442475&timestamp=1498660265&nonce=1003409971
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-06-28T23:38:11+08:00 ] 119.147.207.152 /wxapi/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+

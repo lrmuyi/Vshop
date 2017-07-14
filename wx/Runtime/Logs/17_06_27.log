@@ -1,0 +1,361 @@
+[ 2017-06-27T08:54:40+08:00 ] 61.178.69.249 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T08:56:52+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T08:56:59+08:00 ] 101.226.33.218 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T08:58:36+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T08:59:03+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T08:59:59+08:00 ] 140.207.54.144 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:00:40+08:00 ] 61.178.69.249 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:00:41+08:00 ] 61.178.69.249 /wx/index.php/Home/index/js/app1.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:00:42+08:00 ] 61.178.69.249 /wx/index.php/Home/index/css/style.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:00:42+08:00 ] 61.178.69.249 /wx/index.php/Home/index/js/jquery-2.1.0.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:00:42+08:00 ] 61.178.69.249 /wx/index.php/Home/index/js/app.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:01:20+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:09+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:22+08:00 ] 101.226.61.142 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:23+08:00 ] 140.207.54.144 /wx/index.php/Home/index/js/jquery-2.1.0.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:23+08:00 ] 101.226.61.142 /wx/index.php/Home/index/js/app.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:23+08:00 ] 223.104.56.89 /wx/index.php/Home/index/css/style.css
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:23+08:00 ] 101.226.61.142 /wx/index.php/Home/index/js/app1.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:32+08:00 ] 180.153.81.212 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:33+08:00 ] 180.153.81.212 /wx/index.php/Home/index/js/jquery-2.1.0.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:33+08:00 ] 180.153.81.212 /wx/index.php/Home/index/js/app.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:02:34+08:00 ] 180.153.81.212 /wx/index.php/Home/index/js/app1.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:03:05+08:00 ] 61.178.69.249 /wx/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:03:10+08:00 ] 61.178.69.249 /wx/index.php/Home/index/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:03:27+08:00 ] 61.178.69.249 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:E:/cnyzWAP/wx/Home/View/index/about.html
+
+[ 2017-06-27T09:05:06+08:00 ] 140.207.54.144 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:26:19+08:00 ] 61.178.69.249 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:32:56+08:00 ] 61.178.69.249 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:33:01+08:00 ] 61.178.69.249 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:34:04+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:36:18+08:00 ] 61.178.69.249 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:43:13+08:00 ] 61.178.69.249 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:47:28+08:00 ] 61.178.69.249 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:51:40+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:51:45+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:51:54+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:52:01+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/location
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:52:09+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:52:19+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/index/order_mang
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:52:40+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:52:44+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:53:14+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:53:41+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:53:42+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:55:18+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:55:23+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/index/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:55:29+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:55:51+08:00 ] 61.178.69.249 /wx/index.php/Home/Index/index.php/Home/index/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:19+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:25+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:29+08:00 ] 101.226.61.142 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:34+08:00 ] 101.226.61.142 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:40+08:00 ] 140.207.54.144 /wx/index.php/Home/index/purchase_history
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:46+08:00 ] 101.226.61.142 /wx/index.php/Home/index/my_collection
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:49+08:00 ] 101.226.89.115 /wx/index.php/Home/index/purchase_history
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:53+08:00 ] 101.226.61.142 /wx/index.php/Home/index/commodity_car
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:57:55+08:00 ] 101.226.125.111 /wx/index.php/Home/index/my_collection
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:03+08:00 ] 101.226.33.208 /wx/index.php/Home/index/commodity_car
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:03+08:00 ] 101.226.61.142 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:04+08:00 ] 101.226.61.142 /wx/index.php/Home/Index/js/app.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:05+08:00 ] 101.226.61.142 /wx/index.php/Home/Index/js/app1.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:37+08:00 ] 140.207.54.144 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:37+08:00 ] 101.226.61.142 /wx/index.php/Home/Index/js/app.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:58:38+08:00 ] 140.207.54.144 /wx/index.php/Home/Index/js/app1.js
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:59:20+08:00 ] 101.226.61.142 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:59:39+08:00 ] 140.207.54.144 /wx/index.php/Home/index/order_mang
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T09:59:49+08:00 ] 101.226.33.202 /wx/index.php/Home/index/order_mang
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:00:08+08:00 ] 101.226.233.145 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:05:05+08:00 ] 112.65.193.15 /wx/index.php/Home/index/call_person
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:05:21+08:00 ] 101.226.33.227 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:13:58+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:14:03+08:00 ] 101.226.61.142 /wx/index.php/Home/index/commodity_car
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T10:53:40+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T11:24:28+08:00 ] 61.178.69.249 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T11:25:20+08:00 ] 61.178.69.249 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T11:25:25+08:00 ] 61.178.69.249 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T11:37:36+08:00 ] 180.163.2.117 /wx/index.php/Home/index/about
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T13:09:54+08:00 ] 101.226.61.142 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T13:13:59+08:00 ] 101.226.61.142 /wx/index.php/Home/index/my_collection
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T13:14:08+08:00 ] 140.207.185.112 /wx/index.php/Home/index/my_collection
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:21:32+08:00 ] 125.76.48.123 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:22:35+08:00 ] 123.151.138.76 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:22:52+08:00 ] 123.151.138.76 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:23:49+08:00 ] 123.151.138.76 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:24:28+08:00 ] 123.151.138.76 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:26:41+08:00 ] 123.151.138.76 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:27:17+08:00 ] 123.151.138.76 /wx/index.php/Home/index/order_mang
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:27:24+08:00 ] 123.151.138.76 /wx/index.php/Home/index/purchase_history
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:28:46+08:00 ] 123.151.138.76 /wx/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:28:58+08:00 ] 123.151.138.76 /wx/index.php/Home/Index/person_info
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

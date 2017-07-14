@@ -1,0 +1,129 @@
+.define-title{
+	width: 100%;
+	height: 45px;
+	border-bottom: 1px solid #438EB9;
+}
+.define-title-box{
+	width: 80px;
+	height: 45px;
+	margin-bottom: 0px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 45px;
+	color: #438EB9;
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.box-1{
+	border-radius: 5px;
+	color: #fff;
+	background-color: #438EB9;
+}
+.box-2:hover{
+	border-radius: 5px;
+	
+	background-color: rgb(200,200,200);
+}
+
+.define-user-login{
+	border-radius: 5px;
+	margin-top: 15px;
+	padding-left: 5px;
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	color: #fff;
+	line-height: 40px;
+	background-color: #438EB9;
+}
+.define-sort-box{
+	border-radius: 3px;
+	border: 1px solid #438EB9;
+	margin-top: 10px;
+	width: 99%;
+	height: 180px;
+}
+.define-sort-box .sort-title{
+	padding-left: 5px;
+	height: 30px;
+	font-size: 14px;
+	line-height: 30px;
+	color: #fff;
+	background-color: #438EB9;
+}
+
+.sort-box-top{
+	margin: 10px auto;
+	width: 90%;
+	height: 30px;
+	display: flex;
+}
+.sort-box-top .sort-title{
+	flex: 1;
+	height: 30px;
+	font-size: 14px;
+	line-height: 30px;
+	text-align: center;
+}
+.sort-box-top .sort-top-select{
+	flex: 2;
+	margin-left: 5px;
+	display: block;
+	width: 65%;
+	height:25px ;
+	border: 1px solid aquamarinewe;
+	
+}
+.sort-box-top .sort-top-tip{
+	flex: 2;
+	margin-left: 5px;
+	display: block;
+	width: 65%;
+	height:25px ;
+}
+.sort-box-top .sort-top-tip span{
+	width: 50px;
+	height: 25px;
+	text-align: center;
+	padding: 5px 10px;
+	border: 1px solid aquamarine;
+}
+.sort-box-top .sort-top-tip span:nth-child(1){
+	background-color: royalblue;
+}
+.sort-box-top .sort-top-name{
+	flex: 2;
+	margin-left: 5px;
+	display: block;
+	width: 65%;
+	height:25px ;
+	border: 1px solid #438EB9;
+}
+
+.define-sort-box-bottom{
+	border-radius: 3px;
+	border: 1px solid #438EB9;
+	margin-top: 10px;
+	width: 99%;
+}
+
+.define-sort-box-bottom .sort-title-bottom{
+	padding-left: 5px;
+	height: 30px;
+	font-size: 14px;
+	line-height: 30px;
+	border-bottom: 1px solid gray;
+	display: flex;
+}
+
+.sort-box-1,.sort-box-2,.sort--box-3,.sort-box-4,.sort-box-5,.sort-box-6,.sort-box-7,.sort-box-8,.sort-box-9{
+	flex: 1;
+	text-align: center;
+	position: relative;
+}
+.sort-box-10{
+	flex: 2;
+	text-align: center;
+	position: relative;
+}

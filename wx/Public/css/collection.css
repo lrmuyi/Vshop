@@ -1,0 +1,111 @@
+.collection_box{
+	width: 96%;
+	margin: 5px auto 70px;
+	height: 100%;
+	display: flex;
+}
+.collection_box_left{
+	margin-right: 10px;
+	flex: 1;
+}
+.collection_box_right{
+	flex: 1;
+	
+	
+}
+.collection_box_left .collection_box_1,
+.collection_box_right .collection_box_1{
+	box-shadow: 0px 2px 2px #E5E5E5;
+	background: #F9F9F9;
+	padding: 5px;
+	height: 150px;
+	margin-top: 10px;
+	
+}
+.collection_box_left .collection_box_2,
+.collection_box_right .collection_box_2{
+	box-shadow: 0px 2px 2px #E5E5E5;
+	background: #F9F9F9;
+	padding: 5px;
+	height: 200px;
+	margin-top: 10px;
+	
+}
+.collection_box_left .collection_box_3,
+.collection_box_right .collection_box_3{
+	box-shadow: 0px 2px 2px #E5E5E5;
+	background: #F9F9F9;
+	padding: 5px;
+	height: 220px;
+	margin-top: 10px;
+	
+}
+.collection_box_left .collection_box_4,
+.collection_box_right .collection_box_4{
+	box-shadow: 0px 2px 2px #E5E5E5;
+	background: #F9F9F9;
+	padding: 5px;
+	height: 120px;
+	margin-top: 10px;
+	
+}
+.collection_box_left .collection_box_5,
+.collection_box_right .collection_box_5{
+	box-shadow: 0px 2px 2px #E5E5E5;
+	background: #F9F9F9;
+	padding: 5px;
+	height: 170px;
+	margin-top: 10px;
+	
+}
+.collection_box_1.hide,
+.collection_box_2.hide,
+.collection_box_3.hide,
+.collection_box_4.hide,
+.collection_box_5.hide{
+	display: none;
+}
+.collection_box_left .collection_box_1 img,
+.collection_box_right .collection_box_1 img,
+.collection_box_left .collection_box_2 img,
+.collection_box_right .collection_box_2 img,
+.collection_box_left .collection_box_3 img,
+.collection_box_right .collection_box_3 img,
+.collection_box_left .collection_box_4 img,
+.collection_box_right .collection_box_4 img,
+	.collection_box_left .collection_box_5 img,
+.collection_box_right .collection_box_5 img{
+	width: 100%;
+}
+
+
+.info_box_up,.info_box_down{
+	height: 20px;
+	line-height: 20px;
+	width: 100%;
+	font-size: 16px;
+	font-weight: bold;
+}
+.info_box_up{
+	margin-top:10px ;
+	text-align: center;
+}
+.info_box_down{
+	padding: 5px 8px;
+	text-align: left;
+}
+.info_box_down span:nth-of-type(1){
+	font-size: 20px;
+	color: #FF8A00;
+}
+.info_box_down span:nth-of-type(2){
+	font-weight: 300;
+	font-size: 14px;
+	color: #B7B7B7;
+}
+.info_box_down span:nth-of-type(3){
+	float: right;
+	margin-right: 10px;
+	color: #e1e1e1;
+	cursor: pointer;
+}

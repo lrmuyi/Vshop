@@ -1,0 +1,204 @@
+[ 2017-06-30T09:07:27+08:00 ] 182.254.86.156 /wxapi/index.php/Home/Index/checkSignature?signature=834074495229edd08a0cee598d5bb1721312623d&timestamp=1498784846&nonce=409659179&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=d419119834d626686028f361a3d373176cf8c533
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-06-30T09:07:27+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=62f879bc3a1baf9a2fea95a357606ff3874e4a6e&timestamp=1498784846&nonce=49960849&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=df2389ff300bf0f209f5b3a6509640738f1cbfa0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-06-30T10:20:40+08:00 ] 101.226.233.139 /wxapi/index.php/Home/Index/checkSignature?signature=1d33d463a390cd123e8a469593a2ce0e365f8f77&echostr=2158325298642664826&timestamp=1498789240&nonce=783162852
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-06-30T10:20:44+08:00 ] 101.226.233.141 /wxapi/index.php/Home/Index/checkSignature?signature=045812fa8bdb0b04f8e393869110800ff65767a4&echostr=2069708522561453438&timestamp=1498789244&nonce=577765419
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-06-30T10:20:56+08:00 ] 101.226.233.151 /wxapi/index.php/Home/Index/checkSignature?signature=112c7921cba0144099f33c15d4c8787a927252f9&echostr=3422255682691267991&timestamp=1498789255&nonce=323764798
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-06-30T10:21:13+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-06-30T10:22:18+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-06-30T10:22:19+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-06-30T10:22:19+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-06-30T10:22:43+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-06-30T10:22:44+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-06-30T10:22:44+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-06-30T10:22:45+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-06-30T10:22:45+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-06-30T10:23:25+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-06-30T10:23:26+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-06-30T10:23:26+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-06-30T10:23:26+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-06-30T10:23:30+08:00 ] 101.226.233.151 /wxapi/index.php/Home/Index/checkSignature?signature=05185578885b9f91ae6bf59f2764169e710b22d0&echostr=6023427570969999157&timestamp=1498789409&nonce=1947703210
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-06-30T10:24:41+08:00 ] 182.254.86.141 /wxapi/index.php/Home/Index/checkSignature?signature=109cc7a09190ef5b0009b5574421a83c0c270c11&timestamp=1498789480&nonce=1511277445&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=615d77bf0fe214cecd1d71f9e33740d2b69d6208
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-06-30T10:24:46+08:00 ] 182.254.86.146 /wxapi/index.php/Home/Index/checkSignature?signature=653197378fa947f9f75bfb0b71d55302b6087dab&timestamp=1498789485&nonce=379468476&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=f730266bd6e0e4279b08b2877ec08bb3aca83c06
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-06-30T10:24:53+08:00 ] 182.254.86.156 /wxapi/index.php/Home/Index/checkSignature?signature=a3841687edae2f9b92234abedab5525c6398d5a4&timestamp=1498789492&nonce=661139794&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=d87cb92e4ed90d7513b935e45601cfba35ee0ef3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-06-30T10:27:13+08:00 ] 182.254.86.141 /wxapi/index.php/Home/Index/checkSignature?signature=65fd5ac259cdffb187444eb49ae50d6ab300c884&timestamp=1498789631&nonce=1246058301&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=2f678011a50128d063d6bc12ce0113597e493e46
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-06-30T10:27:18+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=856a01409b8c0da4013d77030200104d391dbec5&timestamp=1498789636&nonce=1773108062&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=eca917ef06aa0db697794674e440152518a18888
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-06-30T10:27:49+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-06-30T10:27:57+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-06-30T10:27:59+08:00 ] 101.226.66.187 /wxapi/index.php/Home/Index/reponMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-06-30T10:28:00+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-06-30T10:28:08+08:00 ] 101.226.66.181 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-06-30T10:28:11+08:00 ] 182.254.86.146 /wxapi/index.php/Home/Index/checkSignature?signature=423f6466b616a8fd6b37c7e732347c0d675a125f&timestamp=1498789689&nonce=1650418340&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=07e14ce889fccf46f025a824753b8c1a70c3065a
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-06-30T10:29:27+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-06-30T10:29:54+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-06-30T10:29:55+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-06-30T10:29:55+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-06-30T10:30:08+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=bd972543f3856579a1c28eb5537589bfeb4b08cb&timestamp=1498789808&nonce=1432419032&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=52bef005e4cad24e6d7482e5bf892e387a62f192
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-30T10:30:13+08:00 ] 182.254.86.146 /wxapi/index.php/Home/Index/checkSignature?signature=14145a2c1def0b3b3edb1872f6f7c793bc58e3d0&timestamp=1498789813&nonce=233652382&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=6814f21e8024ee1d868da6cb8dc2910d611b19ab
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-06-30T10:30:19+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=9aa0f9cefbaf4b80fbda820090f4465b5d2a215e&timestamp=1498789819&nonce=43138046&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=ce7957077733c372e3c5fe32381c689a0bcfb29c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-06-30T10:30:28+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=fb20340a46fb64d86384bc1a250445839c3ace6d&timestamp=1498789828&nonce=1235903169&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=c9ca540d9cc43afecfc1bca92b0dc80e1f3d1273
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-06-30T10:33:54+08:00 ] 101.226.33.225 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-06-30T10:37:28+08:00 ] 182.254.86.151 /wxapi/index.php/Home/Index/checkSignature?signature=4a78e6872424e1e771bd8871515fd831ade3c83c&timestamp=1498790246&nonce=1609019229&openid=oX6ZYw5zKWyNUeweiifrNuAV-t1E&encrypt_type=aes&msg_signature=5d72ef95b5145fb198b03e00b64516cd73ba1cf5
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-06-30T10:38:25+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-06-30T10:38:27+08:00 ] 119.29.13.103 /wxapi/index.php/Home/Index/checkSignature
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-06-30T11:10:42+08:00 ] 101.226.233.146 /wxapi/index.php/Home/Index/checkSignature?signature=9856220d4d777203511aefa3a174683a14fdfa62&echostr=2876248731116491122&timestamp=1498792242&nonce=1566265160
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+
+[ 2017-06-30T11:10:57+08:00 ] 101.226.233.152 /wxapi/index.php/Home/Index/checkSignature?signature=3ea0340188202eff79f36ded11b6d982df26d3b8&echostr=4285174080574707697&timestamp=1498792256&nonce=1581211496
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-06-30T11:13:39+08:00 ] 182.254.86.141 /wxapi/index.php/Home/Index/checkSignature?signature=7c6a5dbecd7f6ebbbdcff349c63c703d8e94ce77&timestamp=1498792418&nonce=725199440&openid=oX6ZYw7Mb1OpjTKn6e6FjxRtiacM&encrypt_type=aes&msg_signature=6ad8daf48e3e4c8693f6239243de0fd0faf0ed5e
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-06-30T11:13:41+08:00 ] 182.254.86.141 /wxapi/index.php/Home/Index/checkSignature?signature=7cb9ce1184471b613fde785c08f2edf22e7b6689&timestamp=1498792421&nonce=668912081&openid=oX6ZYw7Mb1OpjTKn6e6FjxRtiacM&encrypt_type=aes&msg_signature=0b27f824eead2e7d54a2593283b81a6ca4d8ddc0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-06-30T13:04:57+08:00 ] 14.17.3.65 /wxapi/index.php/Home/Index/checkSignature?signature%3D1d33d463a390cd123e8a469593a2ce0e365f8f77%26echostr%3D2158325298642664826%26timestamp%3D1498789240%26nonce%3D783162852
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-06-30T14:06:44+08:00 ] 112.90.82.196 /wxapi/index.php/Home/Index/checkSignature?signature%3D9856220d4d777203511aefa3a174683a14fdfa62%26echostr%3D2876248731116491122%26timestamp%3D1498792242%26nonce%3D1566265160
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-06-30T14:52:49+08:00 ] 125.76.49.175 /wxapi/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-06-30T14:53:48+08:00 ] 125.76.49.175 /wxapi/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-06-30T14:53:49+08:00 ] 125.76.49.175 /wxapi/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
